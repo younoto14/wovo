@@ -1,0 +1,25 @@
+
+> vite-react-typescript-starter@0.0.0 dev
+> vite
+
+
+  VITE v5.4.8  ready in 1575 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+12:35:59 PM [vite] hmr update /src/components/Navbar.tsx, /src/index.css
+12:35:59 PM [vite] hmr update /src/components/Navbar.tsx, /src/index.css
+12:36:06 PM [vite] hmr update /src/components/Footer.tsx, /src/index.css
+12:36:23 PM [vite] hmr update /src/pages/Pricing.tsx, /src/index.css
+12:36:29 PM [vite] hmr update /src/pages/Pricing.tsx, /src/index.css
+12:36:59 PM [vite] hmr update /src/pages/Home.tsx, /src/index.css
+12:37:06 PM [vite] hmr update /src/pages/Features.tsx, /src/index.css
+12:37:10 PM [vite] hmr update /src/pages/Features.tsx, /src/index.css
+12:37:15 PM [vite] hmr update /src/pages/Pricing.tsx, /src/index.css
+12:37:19 PM [vite] hmr update /src/pages/Contact.tsx, /src/index.css
+12:58:23 PM [vite] hmr update /src/App.tsx, /src/index.css
+12:58:23 PM [vite] hmr update /src/App.tsx, /src/index.css
+12:58:48 PM [vite] hmr update /src/components/Navbar.tsx, /src/index.css
